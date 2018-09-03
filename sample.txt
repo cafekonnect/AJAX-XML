@@ -1,0 +1,2 @@
+J2EE Framework
+Knowledge of Relational Databases, Oracle, MySQL, MariaDB, Postgres, MongoDB, SQL Server, etcWeb Services Architecture, Development and Deployment: REST, SOAP, XMLEJB (Enterprise Java Beans), Servlets and Application Programming Interfaces (APIs)Familiarity with concepts of XML, X Query, XSL, Jquery, JDBC, MVC etcIIS, Apache, Web Logic, JBoss Web ServersKnowledge of Test-Driven Development
